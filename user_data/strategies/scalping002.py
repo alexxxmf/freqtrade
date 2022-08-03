@@ -11,7 +11,7 @@ import freqtrade.vendor.qtpylib.indicators as qtpylib
 import pandas_ta as pta
 
 
-class Scalping001(IStrategy):
+class Scalping002(IStrategy):
     INTERFACE_VERSION = 3
 
     can_short: bool = False

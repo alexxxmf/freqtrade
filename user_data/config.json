@@ -33,14 +33,14 @@
   "download_trades": true,
   "exchange": {
     "name": "kraken",
-    "key": "",
-    "secret": "",
+    "key": "ccNhq2hg3tZFd+7LIjLRMwG0eH/3+CCKk5fUjdkIOXdPt7Cmnx7e6P7E",
+    "secret": "GKHhXIYBrMuVfny+o7NLuWj3jlQ4XWQ/3XymiZvG9w7IIDfDCZmDurW7DUMifTPCkD512dzZ3uli/UPr/eXQAQ==",
     "ccxt_config": { "enableRateLimit": true },
     "ccxt_async_config": {
       "enableRateLimit": true,
       "rateLimit": 4000
     },
-    "pair_whitelist": ["USDC/USDT"],
+    "pair_whitelist": [],
     "pair_blacklist": []
   },
   "pairlists": [
