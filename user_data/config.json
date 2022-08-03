@@ -34,7 +34,7 @@
   "exchange": {
     "name": "kraken",
     "key": "ccNhq2hg3tZFd+7LIjLRMwG0eH/3+CCKk5fUjdkIOXdPt7Cmnx7e6P7E",
-    "secret": "GKHhXIYBrMuVfny+o7NLuWj3jlQ4XWQ/3XymiZvG9w7IIDfDCZmDurW7DUMifTPCkD512dzZ3uli/UPr/eXQAQ==",
+    "secret": "",
     "ccxt_config": { "enableRateLimit": true },
     "ccxt_async_config": {
       "enableRateLimit": true,
