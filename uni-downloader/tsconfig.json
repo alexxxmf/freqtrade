@@ -1,6 +1,12 @@
 {
   "extends": "@tsconfig/node16/tsconfig.json",
-  "compilerOptions": {},
-  "include": ["src"],
+  "compilerOptions": {
+    "target": "es2015",
+    "module": "commonjs",
+    "strict": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true
+  },
+  "include": ["./src", "src"],
   "exclude": ["node_modules"]
 }
